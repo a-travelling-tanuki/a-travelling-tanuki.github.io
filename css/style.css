@@ -1,0 +1,90 @@
+.alumni-sans{
+    font-family: "Alumni Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal;
+  }
+  
+  
+  .nav-link {
+    color: #777;
+    text-transform: uppercase;
+   
+  }
+  
+  .nav-link:hover {
+    color: green;
+    text-transform: uppercase ;
+    font-weight: bold;
+    transition: 0.2s all ease;
+   
+  }
+  
+  .svg{
+    filter: invert(1);
+    margin-left: 20px;
+    margin-right: 20px;
+  
+      }
+  
+  
+  
+  .site-menu[data-class="social"] a {
+    color: rgba(255, 255, 255, 0.5); }
+    .site-menu[data-class="social"] a:hover {
+      color: #fff; }
+  
+  
+  
+  body {
+    line-height: 1.7;
+    color: #777;
+    font-size: 1rem;
+    background: black; 
+  }
+  
+  .fs-4{
+  
+    color: #fff;
+  
+  }
+  
+  #main{
+    text-align: center;
+  }
+  
+  
+  .img-bg {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin-bottom: 16px;
+    
+  }
+  
+  .card-cover {
+    filter: grayscale(100%);
+    height: 450px
+    
+    }
+  
+  .card-cover:hover {
+    filter:grayscale(15%);
+    transition: 1.2s all ease;
+  }
+  
+  .btn-outline-white {
+    border-color: #fff;
+    color: #fff;
+    border-width: 2px;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: .1em; 
+  }
+  
+  .btn-outline-white:hover {
+    background: #fff;
+    color: #000; 
+  }
+  
+  
